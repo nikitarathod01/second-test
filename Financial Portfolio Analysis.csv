@@ -1,0 +1,9 @@
+Stock,Shares ,Purchase Price,Current Price,Cost,Dividend,Dividend Income,Industry,Purchase Month
+VZ,30,54.32,39.69,1629.6,#REF!,#REF!,Communication Services,January
+T,40,30.12,16.6,1204.8,#REF!,#REF!,Communication Services,January
+AAL,52,22.45,15.28,1167.4,#REF!,#REF!,Airline,January
+JBLU,59,15.49,6.39,913.91,#REF!,#REF!,Airline,March
+SAVE,46,21.96,6.28,1010.16,#REF!,#REF!,Airline,October
+O,25,61.47,52.49,1536.75,#REF!,#REF!,REIT,October
+AMT,10,271.88,187.72,2718.8,#REF!,#REF!,REIT,August
+BXP,15,117.43,64.08,1761.45,#REF!,#REF!,REIT,August
